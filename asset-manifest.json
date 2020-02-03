@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "Reem24Hahrss.github.io/React_Project/static/css/main.40f3aa28.chunk.css",
+    "main.js": "Reem24Hahrss.github.io/React_Project/static/js/main.0367f5e9.chunk.js",
+    "main.js.map": "Reem24Hahrss.github.io/React_Project/static/js/main.0367f5e9.chunk.js.map",
+    "runtime-main.js": "Reem24Hahrss.github.io/React_Project/static/js/runtime-main.f1965b7b.js",
+    "runtime-main.js.map": "Reem24Hahrss.github.io/React_Project/static/js/runtime-main.f1965b7b.js.map",
+    "static/js/2.2da3fb3a.chunk.js": "Reem24Hahrss.github.io/React_Project/static/js/2.2da3fb3a.chunk.js",
+    "static/js/2.2da3fb3a.chunk.js.map": "Reem24Hahrss.github.io/React_Project/static/js/2.2da3fb3a.chunk.js.map",
+    "index.html": "Reem24Hahrss.github.io/React_Project/index.html",
+    "precache-manifest.a0da0433973acf75c92346bd4fea3ed8.js": "Reem24Hahrss.github.io/React_Project/precache-manifest.a0da0433973acf75c92346bd4fea3ed8.js",
+    "service-worker.js": "Reem24Hahrss.github.io/React_Project/service-worker.js",
+    "static/css/main.40f3aa28.chunk.css.map": "Reem24Hahrss.github.io/React_Project/static/css/main.40f3aa28.chunk.css.map",
+    "static/js/2.2da3fb3a.chunk.js.LICENSE": "Reem24Hahrss.github.io/React_Project/static/js/2.2da3fb3a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1965b7b.js",
+    "static/js/2.2da3fb3a.chunk.js",
+    "static/css/main.40f3aa28.chunk.css",
+    "static/js/main.0367f5e9.chunk.js"
+  ]
+}
